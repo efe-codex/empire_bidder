@@ -14,7 +14,7 @@ You have two options to get the code:
   ```
 
 - **Downloading as ZIP:**  
-  If you're not comfortable with Git, you can download the latest version of the code from the Releases page. Just click on the latest release, download the ZIP file provided there, and extract the contents to a folder on your computer.
+  If you're not comfortable with Git, you can download the latest version of the code from the [Releases page](https://github.com/efe-codex/empire_bidder/releases). Just click on the latest release, download the ZIP file provided there, and extract the contents to a folder on your computer.
 
 ### 2. Install Python
 
