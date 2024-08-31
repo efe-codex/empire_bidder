@@ -14,7 +14,7 @@ You have two options to get the code:
   ```
 
 - **Downloading as ZIP:**  
-  If you're not comfortable with Git, you can download the code as a ZIP file. Click the green "Code" button on the repository's page, select "Download ZIP," and then extract the contents of the ZIP file to a folder on your computer.
+  If you're not comfortable with Git, you can download the latest version of the code from the Releases page. Just click on the latest release, download the ZIP file provided there, and extract the contents to a folder on your computer.
 
 ### 2. Install Python
 
