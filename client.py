@@ -227,9 +227,9 @@ def bid(name,item_id,bid_value):
     except Exception as e:
         print(f"{Fore.RED}bid error: {e}{Style.RESET_ALL}")
         try:
-            print(f"{c.status_code}:{c.json()}")
+            print(f"{Fore.RED}{c.status_code}:{c.json()}{Style.RESET_ALL}")
         except:
-            print(c)
+            print(f"{Fore.RED}{c}{Style.RESET_ALL}")
 
 threads = {}
 t=0
